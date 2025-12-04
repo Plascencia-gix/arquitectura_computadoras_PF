@@ -1,4 +1,4 @@
-`timescale 1ns / 1ps
+`timescale 1ns / 1ns
 
 module testbench;
     reg clk;
@@ -29,3 +29,4 @@ module testbench;
         $stop;
     end
 endmodule
+
